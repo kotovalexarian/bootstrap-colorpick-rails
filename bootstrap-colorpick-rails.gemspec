@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.homepage      = "https://github.com/alessani/bootstrap-colorpicker-rails"
   gem.summary       = gem.description
 
-  gem.name          = "bootstrap-colorpicker-rails"
+  gem.name          = "bootstrap-colorpick-rails"
   gem.require_paths = ["lib"]
   gem.files         = `git ls-files`.split("\n")
   gem.version       = BootstrapColorpickerRails::Rails::VERSION
